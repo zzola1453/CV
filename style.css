@@ -146,6 +146,6 @@ section{
   } 
 
   .headset{
-    background-size: contain;
+    background-size: 100vh 100vw;
   }
 }
