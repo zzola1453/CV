@@ -140,9 +140,7 @@ section{
 @media screen and (min-width: 767px) {
   body{
     display: block;
+    font-size: 5px;
   } 
   
-  .headset{
-    width: 100%;
-  }
 }
