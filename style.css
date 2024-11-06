@@ -137,4 +137,8 @@ section{
   font-size: 1em;
 }
 
-
+@media screen (min-width: 767px) {
+  body{
+    display:block;
+  }
+}
