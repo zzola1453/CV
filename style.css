@@ -144,4 +144,8 @@ section{
     text-align: center;
     width: 100%;
   } 
+
+  .headset{
+    background-size: contain;
+  }
 }
