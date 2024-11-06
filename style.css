@@ -140,10 +140,14 @@ section{
 @media screen and (max-width: 767px) {
   body{
     display: block;
-    font-size: 5px;
+    font-size: 1px;
     text-align: center;
     width: 100%;
   } 
+
+  .indextext{
+    font: 1em;
+  }
 
   .headset{
     background-size: 100vh 100vw;
