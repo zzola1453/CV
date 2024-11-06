@@ -141,4 +141,8 @@ section{
   body{
     display: block;
   } 
+  
+  .headset{
+    width: 100%;
+  }
 }
