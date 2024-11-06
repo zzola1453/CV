@@ -141,5 +141,6 @@ section{
   body{
     display: block;
     font-size: 5px;
+    text-align: center;
   } 
 }
